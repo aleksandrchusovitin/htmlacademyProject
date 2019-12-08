@@ -237,31 +237,3 @@ inputComment.addEventListener('focus', function () {
   document.removeEventListener('keydown', onLoadOverlayEscPress);
 });
 
-// Глубина эффекта ползунок. Начало
-var effectLvlPin = document.querySelector('.effect-level__pin');
-var imageUploadPreview = document.querySelector('.img-upload__preview');
-var effectLvlValue = document.querySelector('.effect-level__value');
-
-var saturationChrome;
-var saturationSepia;
-var saturationMarvin;
-var saturationFobos;
-var saturationZnoi;
-
-// Логика определения уровня насыщенности
-var getSaturation = function () {
-  var value = effectLvlValue.getAttribute('value');
-  saturationChrome = value / 10;
-  saturationSepia = value / 10;
-  saturationMarvin = value + '%';
-  saturationFobos = 3 * value / 100;
-  saturationZnoi = (2 * value / 100) + 1 + 'px';
-};
-effectLvlPin.addEventListener('mouseup', function () {
-
-});
-
-// Валидность данных при загрузке новой фотографии
-var hashTagInput = document.querySelector('.text__hashtags');
-
-

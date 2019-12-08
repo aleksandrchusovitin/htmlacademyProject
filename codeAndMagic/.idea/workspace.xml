@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b08c71f-94e3-4539-8d3a-f540c1a23dbb" name="Default Changelist" comment="dialog add">
-      <change afterPath="$PROJECT_DIR$/js/dialog.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/stat.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/stat.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kekstagram2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kekstagram2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +38,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.linters.configure.manually.selectedeslint" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kekstagram2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -87,7 +83,7 @@
       <workItem from="1573885241366" duration="16000" />
       <workItem from="1573885298510" duration="2911000" />
       <workItem from="1573969223320" duration="2011000" />
-      <workItem from="1574161786524" duration="901000" />
+      <workItem from="1574161786524" duration="1299000" />
     </task>
     <servers />
   </component>
